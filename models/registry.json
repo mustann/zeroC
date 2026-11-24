@@ -1,0 +1,82 @@
+[
+ {
+  "trained_at": "2026-11-24T03:46:12",
+  "n_complaints": 2837,
+  "pair_model": {
+   "30d": {
+    "pr_auc": 0.331,
+    "baseline_pr_auc": 0.205,
+    "roc_auc": 0.681,
+    "recall_top10pct": 0.253,
+    "brier": 0.1208,
+    "positive_rate": 0.153,
+    "n_test": 648
+   },
+   "60d": {
+    "pr_auc": 0.431,
+    "baseline_pr_auc": 0.357,
+    "roc_auc": 0.665,
+    "recall_top10pct": 0.2,
+    "brier": 0.1819,
+    "positive_rate": 0.262,
+    "n_test": 648
+   },
+   "90d": {
+    "pr_auc": 0.52,
+    "baseline_pr_auc": 0.452,
+    "roc_auc": 0.674,
+    "recall_top10pct": 0.158,
+    "brier": 0.2139,
+    "positive_rate": 0.352,
+    "n_test": 648
+   }
+  },
+  "batch_model": {
+   "Foreign matter": {
+    "pr_auc": 0.311,
+    "roc_auc": 0.758,
+    "base_rate": 0.0602
+   },
+   "Contamination": {
+    "pr_auc": 0.025,
+    "roc_auc": 0.474,
+    "base_rate": 0.022
+   },
+   "Infestation": {
+    "pr_auc": 0.097,
+    "roc_auc": 0.595,
+    "base_rate": 0.0324
+   },
+   "Physical defect": {
+    "pr_auc": 0.051,
+    "roc_auc": 0.586,
+    "base_rate": 0.0347
+   },
+   "Process defect": {
+    "pr_auc": 0.029,
+    "roc_auc": 0.564,
+    "base_rate": 0.0208
+   },
+   "Packaging": {
+    "pr_auc": 0.034,
+    "roc_auc": 0.599,
+    "base_rate": 0.0185
+   },
+   "Sensory": {
+    "pr_auc": 0.064,
+    "roc_auc": 0.554,
+    "base_rate": 0.0289
+   },
+   "Weight / quantity": {
+    "pr_auc": 0.047,
+    "roc_auc": 0.501,
+    "base_rate": 0.0394
+   },
+   "Other": {
+    "pr_auc": 0.01,
+    "roc_auc": 0.382,
+    "base_rate": 0.0104
+   }
+  }
+ }
+]

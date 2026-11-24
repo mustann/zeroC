@@ -1,0 +1,4 @@
+To: qa.head@example.com
+Subject: [ZeroC-AI] HIGH risk: Product B | Foreign matter
+
+30-day complaint risk 55% (60d 63%, 90d 70%). Drivers: Process readings: expected complaints (3 months), Process readings: expected complaints (this month). Do now: Sieve + magnet + metal-detector verification each shift (worked in 115 of 135 similar cases). SOP: Verify HACCP CCP records: metal-detector test pieces, sieve and magnet logs for the last 3 shifts; hold implicated lots.

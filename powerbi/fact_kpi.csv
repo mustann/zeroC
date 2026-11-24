@@ -1,0 +1,9 @@
+KPI,Now,Target 12m,Target 24m,Zero state,better
+Complaints per million units,1.11,0.5,0.25,0,lower
+"Complaints, last 12 months",105.0,79.0,52.0,0,lower
+Repeat-complaint rate %,47.62,25.0,10.0,0,lower
+Chronic problem areas,8.0,4.0,2.0,0,lower
+CAPA effectiveness %,59.78,85.0,92.0,100,higher
+Average closure time (days),19.12,10.0,7.0,5,lower
+Early-warning hit rate % (30-day backtest),35.35,60.0,75.0,85,higher
+Complaint-free product-months %,23.61,40.0,65.0,100,higher

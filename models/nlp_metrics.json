@@ -1,0 +1,7 @@
+{
+ "n_train": 660,
+ "n_test": 221,
+ "macro_f1_category": 0.888,
+ "macro_f1_subdefect": 0.882,
+ "accuracy": 0.878
+}
